@@ -5,6 +5,11 @@
     max-width: 600px;
     width: 100%;
     margin-bottom: 24px;
+
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f9f9f9;
 }
 
 .label {
@@ -25,7 +30,7 @@
     border-radius: 4px;
     background-color: #ddd;
     cursor: pointer;
-    align-self: flex-start;
+    align-self: center;
 }
 
 .error {
