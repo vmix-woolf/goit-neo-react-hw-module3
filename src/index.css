@@ -40,6 +40,6 @@ body {
   max-width: var(--container-width);
   padding-left: var(--container-padding);
   padding-right: var(--container-padding);
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 100px;
+  margin-right: 100px;
 }
